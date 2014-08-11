@@ -2,6 +2,7 @@ source 'https://rubygems.org'
 
 gem 'rack'
 gem 'pry'
+gem 'rake'
 
 group :development, :test do
   gem 'rack-test'
